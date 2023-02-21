@@ -13,3 +13,18 @@ Favorite anims.
 Extended config.
 Simple to add animations.
 Preview:![68747470733a2f2f692e696d6775722e636f6d2f725a64455839432e706e67](https://user-images.githubusercontent.com/121698924/220443579-68a459b3-939d-4c38-af98-fe58bf166b8b.png)
+Locales
+Everything has to be translated manually because I did not want to support different languages with a locales config. However, I will list every line that can be translated.
+LUA
+
+[105 | client/nui.lua]
+[141 | client/nui.lua]
+[82 | client/functions.lua]
+[163 | client/functions.lua]
+[13-14 | server/syncing.lua]
+JS
+
+[22-33 | html/js/script.js]
+[6-102 | html/js/listeners.js]
+[88-89 | html/js/modules/fetch.js]
+[104-105 | html/js/modules/functions.js]
